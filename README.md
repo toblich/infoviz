@@ -2,5 +2,5 @@
 
 Assignments &amp; coursework from ITBA's Information Visualization course from the Data Science specialization.
 
-* TOC Placeholder
-{:toc}
+1. [Week1](./s1/)
+2. [Week2](./s2/)
