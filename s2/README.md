@@ -12,7 +12,7 @@ Les recomiendo que vean el video de [Andy Kriebel](https://youtu.be/bORvGBqKfD4)
 
 Herramientas que vamos a utilizar:
 
-1. Tableau --> https://public.tableau.com/app/profile/tobias3916/viz/MoM-week44/Dashboard1?publish=yes
-2. Flourish --> https://public.flourish.studio/visualisation/11709069/
+1. Tableau --> [Public dashboard](https://public.tableau.com/app/profile/tobias3916/viz/MoM-week44/Dashboard1?publish=yes)
+2. Flourish --> [Public chart](https://public.flourish.studio/visualisation/11709069/)
 3. ObservableHQ (Plot.js y D3.js)
 4. Colab (python & altair y R & ggplot2)
