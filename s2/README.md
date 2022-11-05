@@ -16,3 +16,5 @@ Herramientas que vamos a utilizar:
 2. Flourish --> [Public chart](https://public.flourish.studio/visualisation/11709069/)
 3. ObservableHQ (Plot.js y D3.js)
 4. Colab (python & altair y R & ggplot2)
+
+Todos los charts juntos están [acá](./charts.html)
